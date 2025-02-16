@@ -101,15 +101,19 @@ Método / Endpoint	/ Descripción
 Para iniciar el backend, ejecutar:
 
 
-  mvn spring-boot:run
+  -mvn spring-boot:run
   
 
-El backend correrá en: http://localhost:8080
+El backend correrá en: 
+
+
+  -http://localhost:8080
 
 
 Para visualizar la documentación con Swagger/OpenAPI:
 
-http://localhost:8080/swagger-ui/index.html
+
+  -http://localhost:8080/swagger-ui/index.html
 
 
 
