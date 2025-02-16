@@ -1,10 +1,10 @@
-#Generador de Mensajes Automáticos para Discord
+# Generador de Mensajes Automáticos para Discord
 
 
 Este proyecto es una API REST desarrollada en Java con Spring Boot que permite programar mensajes automáticos y enviarlos a un canal de Discord en la fecha y hora establecida. Además, cuenta con un panel web para visualizar los mensajes programados.
 
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
   -Java 17
   
@@ -20,7 +20,7 @@ Este proyecto es una API REST desarrollada en Java con Spring Boot que permite p
 
   
 
-##Características Principales
+## Características Principales
 
 ✅ Almacena los mensajes programados en una base de datos MySQL.
 
@@ -35,7 +35,7 @@ Este proyecto es una API REST desarrollada en Java con Spring Boot que permite p
 
 
 
-##Endpoints de la API
+## Endpoints de la API
 
 
 Método / Endpoint	/ Descripción
@@ -54,7 +54,7 @@ Método / Endpoint	/ Descripción
 
 
 
-##Requisitos Previos
+## Requisitos Previos
 
 
 -Tener instalado Java 17 o superior.
@@ -67,7 +67,7 @@ Método / Endpoint	/ Descripción
 
 
 
-##Configuración del Proyecto
+## Configuración del Proyecto
 
 
 1-Clonar este repositorio.
@@ -92,7 +92,7 @@ Método / Endpoint	/ Descripción
 
 
 
-##Ejecución del Proyecto
+## Ejecución del Proyecto
 
 Para iniciar el backend, ejecutar:
 
@@ -109,7 +109,7 @@ http://localhost:8080/swagger-ui/index.html
 
 
 
-##Panel Web
+## Panel Web
 
 
 Para acceder al panel web y visualizar los mensajes programados, ir a:
@@ -117,7 +117,7 @@ http://localhost:8080/messages
 
 
 
-###Recursos Adicionales
+### Recursos Adicionales
 
 
   -Integración con bot de Discord: Discord.dev
@@ -128,4 +128,4 @@ http://localhost:8080/messages
 
 
 
-Desarrollado por Edgar Gutiérrez Mejía.
+##### Desarrollado por Edgar Gutiérrez Mejía.
