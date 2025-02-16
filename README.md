@@ -43,13 +43,13 @@ Este proyecto es una API REST desarrollada en Java con Spring Boot que permite p
 Método / Endpoint	/ Descripción
 
 
-  -POST	/api/messages	Guarda un mensaje programado (texto + fecha).
+  -POST	/api/messages ->	Guarda un mensaje programado (texto + fecha).
   
   
-  -GET	/api/messages	Obtiene la lista de mensajes programados.
+  -GET	/api/messages ->	Obtiene la lista de mensajes programados.
   
   
-  -DELETE	/api/messages/{id}	Elimina un mensaje programado por ID.
+  -DELETE	/api/messages/{id} -> Elimina un mensaje programado por ID.
 
   
 
