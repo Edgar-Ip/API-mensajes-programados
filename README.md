@@ -75,17 +75,19 @@ Método / Endpoint	/ Descripción
 1-Clonar este repositorio.
 
 
-2-Configurar el archivo application.properties en src/main/resources/:
+2-Configurar el archivo 
 
-
-  spring.datasource.url=jdbc:mysql://localhost:3306/mensajes_db
+    application.properties en src/main/resources/:
+    
   
-  spring.datasource.username=tu_usuario
-  
-  spring.datasource.password=tu_contraseña
-  
-
-  discord.bot.token=TU_BOT_TOKEN
+      -spring.datasource.url=jdbc:mysql://localhost:3306/mensajes_db
+      
+      -spring.datasource.username=tu_usuario
+      
+      -spring.datasource.password=tu_contraseña
+      
+    
+      -discord.bot.token=TU_BOT_TOKEN
 
   
 
