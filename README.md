@@ -22,6 +22,7 @@ Este proyecto es una API REST desarrollada en Java con Spring Boot que permite p
 
 ## Características Principales
 
+
 ✅ Almacena los mensajes programados en una base de datos MySQL.
 
 ✅ Programa la ejecución automática de los mensajes en la fecha indicada.
@@ -31,6 +32,7 @@ Este proyecto es una API REST desarrollada en Java con Spring Boot que permite p
 ✅ Documentación de la API con Swagger/OpenAPI.
 
 ✅ Panel web para visualizar los mensajes programados.
+
 
 
 
@@ -117,7 +119,9 @@ http://localhost:8080/messages
 
 
 
+
 ### Recursos Adicionales
+
 
 
   -Integración con bot de Discord: Discord.dev
@@ -125,6 +129,8 @@ http://localhost:8080/messages
   
   -Documentación sobre integraciones de API de Discord: Pipedream
   
+
+
 
 
 
